@@ -25,4 +25,3 @@ public sealed class CsvDataModelMap : ClassMap<CsvDataModel>
     }
 }
 
-E:\Task2BackEnd\Mappers\CsvDataModelMap.cs

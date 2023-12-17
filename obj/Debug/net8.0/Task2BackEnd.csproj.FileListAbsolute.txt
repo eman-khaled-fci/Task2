@@ -32,3 +32,4 @@ E:\Task2BackEnd\obj\Debug\net8.0\refint\Task2BackEnd.dll
 E:\Task2BackEnd\obj\Debug\net8.0\Task2BackEnd.pdb
 E:\Task2BackEnd\obj\Debug\net8.0\Task2BackEnd.genruntimeconfig.cache
 E:\Task2BackEnd\obj\Debug\net8.0\ref\Task2BackEnd.dll
+E:\Task2BackEnd\bin\Debug\net8.0\Newtonsoft.Json.dll
